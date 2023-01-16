@@ -13,3 +13,5 @@ In this repository, I'm sharing some folder and each one of them are a topic abo
 - [JPA](https://github.com/angeliadriano/LearningJava/tree/main/JPA)
 - [Modularity in Java](https://github.com/angeliadriano/LearningJava/tree/main/Modularity%20in%20Java)
 - [Spring Boot](https://github.com/angeliadriano/LearningJava/tree/main/Spring%20Boot)
+
+<img src="https://media.tenor.com/ZrFooc6A9ysAAAAM/goodgoodgeneral-mental-health.gif"/>
